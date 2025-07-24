@@ -1,24 +1,47 @@
 # 💫 About Me:
+
 ## 👋 Hi there, I'm MohammadSadegh Hemati<br><br>I'm a Computer Engineering student at **Iran University of Science and Technology (IUST)**, passionate about **Network Security**, **Data Science**, and everything in between. My journey started with **Frontend Development** and **UI/UX Design**, and gradually evolved into working with data,  Network systems, and cybersecurity.<br><br>---<br><br> ### 💡 What I'm Doing<br><br>- 🎓 Teaching Assistant for core computer engineering courses at IUST  <br>- 🧠 Content creator at **[Sadev.ai](https://takl.ink/Sadev.ai/)** — sharing programming tips, learning paths, and developer insights across multiple platforms  <br>- 💼 Help Desk technician at two companies — real-world IT & troubleshooting experience  <br>- 👥 Active member of the **Computer Engineering Scientific Association (CESA)** and part of the organizing team of the **TechRoad** event  <br><br>---<br><br> ### 🧰 Tech Stack & Interests<br><br>- Programming: Python, C++, JavaScript  <br>- Web: HTML, CSS, React (basic), Figma, UI/UX principles  <br>- Tools: Git, Linux, Wireshark, VS Code, Cisco <br>- Topics: Network security, data analysis, teaching, and content creation<br><br>---<br><br> ### 🚀 Goals<br><br>- Dive deeper into **network protocols and cybersecurity**<br>- Gain real-world experience through internships and open source<br>- Grow **Sadev.ai** into a helpful brand for tech learners<br>- Build useful tools/products with impact<br><br>---<br><br> ### 📬 Let's Connect<br><br>- 💼 [Website](https://takl.ink/Sadev.ai/)<br>- 📸 [Instagram – Sadev.ai](https://instagram.com/sadev.ai)<br>- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-sadegh-hemati)<br>- 📫 Reach out via email: sadev.ai.pv@email.com  <br>- 🧑‍💻 Always open to collaboration, learning, and good conversations!<br><br>---<br><br>*“Learning by building, teaching by sharing.”*<br>
 
 
+
+
+
 ## 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sadev.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-sadegh-hemati) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sadev_ai) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@sadev-ai?si=uemDsEGsXUoKDcUP) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadev.ai.pv@gmail.com) 
 
+
+
 # 💻 Tech Stack:
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=sadev-ai&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=sadev-ai&theme=blueberry&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadev-ai&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=sadev-ai&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
+
+
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=sadev-ai&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
+
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=sadev-ai&icon=2&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
