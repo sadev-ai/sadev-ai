@@ -20,7 +20,13 @@
 - Gain real-world experience through internships and open source<br>- Grow **Sadev.ai** into a helpful brand for tech learners<br>
 - Build useful tools/products with impact
 <br><br>
-### 📬 Let's Connect<br><br>- 💼 [Website](https://takl.ink/Sadev.ai/)<br>- 📸 [Instagram – Sadev.ai](https://instagram.com/sadev.ai)<br>- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-sadegh-hemati)<br>- 📫 Reach out via email: sadev.ai.pv@email.com  <br>- 🧑‍💻 Always open to collaboration, learning, and good conversations!
+### 📬 Let's Connect
+<br><br>
+- 💼 [Website](https://takl.ink/Sadev.ai/)<br>- 📸 [Instagram – Sadev.ai](https://instagram.com/sadev.ai)<br>- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-sadegh-hemati)
+<br>
+- 📫 Reach out via email: sadev.ai.pv@email.com  
+<br>
+- 🧑‍💻 Always open to collaboration, learning, and good conversations!
 <br><br>
 *“Learning by building, teaching by sharing.”*<br>
 
