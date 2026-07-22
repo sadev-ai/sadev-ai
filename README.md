@@ -2,7 +2,12 @@
 
 ## 👋 Hi there, I'm MohammadSadegh Hemati<br><br>I'm a Computer Engineering student at **Iran University of Science and Technology (IUST)**, passionate about **Network Security**, **Data Science**, and everything in between. My journey started with **Frontend Development** and **UI/UX Design**, and gradually evolved into working with data,  Network systems, and cybersecurity.
 <br><br>
-### 💡 What I'm Doing<br><br>- 🎓 Teaching Assistant for core computer engineering courses at IUST  <br>- 🧠 Content creator at **[Sadev.ai](https://takl.ink/Sadev.ai/)** — sharing programming tips, learning paths, and developer insights across multiple platforms  <br>- 💼 Help Desk technician at two companies — real-world IT & troubleshooting experience  <br>- 👥 Active member of the **Computer Engineering Scientific Association (CESA)** and part of the organizing team of the **TechRoad** event 
+### 💡 What I'm Doing
+<br><br>
+- 🎓 Teaching Assistant for core computer engineering courses at IUST  <br>
+- 🧠 Content creator at **[Sadev.ai](https://takl.ink/Sadev.ai/)** — sharing programming tips, learning paths, and developer insights across multiple platforms  <br>
+- 💼 Help Desk technician at two companies — real-world IT & troubleshooting experience  <br>
+- 👥 Active member of the **Computer Engineering Scientific Association (CESA)** and part of the organizing team of the **TechRoad** event 
 <br><br>
 ### 🧰 Tech Stack & Interests<br><br>- Programming: Python, C++, JavaScript  <br>- Web: HTML, CSS, React (basic), Figma, UI/UX principles  <br>- Tools: Git, Linux, Wireshark, VS Code, Cisco <br>- Topics: Network security, data analysis, teaching, and content creation
 <br><br>
