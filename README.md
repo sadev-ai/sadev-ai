@@ -9,9 +9,16 @@
 - 💼 Help Desk technician at two companies — real-world IT & troubleshooting experience  <br>
 - 👥 Active member of the **Computer Engineering Scientific Association (CESA)** and part of the organizing team of the **TechRoad** event 
 <br><br>
-### 🧰 Tech Stack & Interests<br><br>- Programming: Python, C++, JavaScript  <br>- Web: HTML, CSS, React (basic), Figma, UI/UX principles  <br>- Tools: Git, Linux, Wireshark, VS Code, Cisco <br>- Topics: Network security, data analysis, teaching, and content creation
+### 🧰 Tech Stack & Interests
 <br><br>
-### 🚀 Goals<br><br>- Dive deeper into **network protocols and cybersecurity**<br>- Gain real-world experience through internships and open source<br>- Grow **Sadev.ai** into a helpful brand for tech learners<br>- Build useful tools/products with impact
+- Programming: Python, C++, JavaScript  <br>- Web: HTML, CSS, React (basic), Figma, UI/UX principles
+  <br>
+- Tools: Git, Linux, Wireshark, VS Code, Cisco <br>- Topics: Network security, data analysis, teaching, and content creation
+<br><br>
+### 🚀 Goals<br><br>
+- Dive deeper into **network protocols and cybersecurity**<br>
+- Gain real-world experience through internships and open source<br>- Grow **Sadev.ai** into a helpful brand for tech learners<br>
+- Build useful tools/products with impact
 <br><br>
 ### 📬 Let's Connect<br><br>- 💼 [Website](https://takl.ink/Sadev.ai/)<br>- 📸 [Instagram – Sadev.ai](https://instagram.com/sadev.ai)<br>- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-sadegh-hemati)<br>- 📫 Reach out via email: sadev.ai.pv@email.com  <br>- 🧑‍💻 Always open to collaboration, learning, and good conversations!
 <br><br>
