@@ -111,17 +111,6 @@ Courses include:
 
 ---
 
-## ✍️ Sadev.ai
-
-I also create educational technology content through **Sadev.ai**, sharing programming resources, developer insights, and learning experiences.
-
-🌐 [Sadev.ai](https://takl.ink/Sadev.ai/)  
-📸 [Instagram](https://instagram.com/sadev.ai)  
-▶️ [YouTube](https://www.youtube.com/@sadev-ai)  
-𝕏 [X / Twitter](https://x.com/sadev_ai)
-
----
-
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadev-ai&show_icons=true&hide_border=true)
@@ -134,7 +123,7 @@ I also create educational technology content through **Sadev.ai**, sharing progr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-sadegh-hemati)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.sadegh.hemati.dev@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sadev.ai)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sadev.pv)
 
 ---
 
