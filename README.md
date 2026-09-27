@@ -1,75 +1,141 @@
-# 💫 About Me:
+# Hi, I'm Mohammad Sadegh Hemati 👋
 
-## 👋 Hi there, I'm MohammadSadegh Hemati<br><br>I'm a Computer Engineering student at **Iran University of Science and Technology (IUST)**, passionate about **Network Security**, **Data Science**, and everything in between. My journey started with **Frontend Development** and **UI/UX Design**, and gradually evolved into working with data,  Network systems, and cybersecurity.
-<br><br>
-### 💡 What I'm Doing
-<br><br>
-- 🎓 Teaching Assistant for core computer engineering courses at IUST  <br>
-- 🧠 Content creator at **[Sadev.ai](https://takl.ink/Sadev.ai/)** — sharing programming tips, learning paths, and developer insights across multiple platforms  <br>
-- 💼 Help Desk technician at two companies — real-world IT & troubleshooting experience  <br>
-- 👥 Active member of the **Computer Engineering Scientific Association (CESA)** and part of the organizing team of the **TechRoad** event 
-<br><br>
-### 🧰 Tech Stack & Interests
-<br><br>
-- Programming: Python, C++, JavaScript  <br>- Web: HTML, CSS, React (basic), Figma, UI/UX principles
-  <br>
-- Tools: Git, Linux, Wireshark, VS Code, Cisco <br>- Topics: Network security, data analysis, teaching, and content creation
-<br><br>
-### 🚀 Goals<br><br>
-- Dive deeper into **network protocols and cybersecurity**<br>
-- Gain real-world experience through internships and open source<br>- Grow **Sadev.ai** into a helpful brand for tech learners<br>
-- Build useful tools/products with impact
-<br><br>
-### 📬 Let's Connect
-<br><br>
-- 💼 [Website](https://takl.ink/Sadev.ai/)<br>- 📸 [Instagram – Sadev.ai](https://instagram.com/sadev.ai)<br>- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-sadegh-hemati)
-<br>
-- 📫 Reach out via email: sadev.ai.pv@email.com  
-<br>
-- 🧑‍💻 Always open to collaboration, learning, and good conversations!
-<br><br>
-*“Learning by building, teaching by sharing.”*<br>
+### Junior Frontend Developer | React & Next.js
 
+I'm a Computer Engineering student at **Iran University of Science and Technology (IUST)** with hands-on experience building frontend applications using **JavaScript, React, Next.js, and Tailwind CSS**.
 
+I enjoy turning ideas and designs into responsive user interfaces, integrating frontend applications with backend APIs, and working in collaborative software teams.
 
-
-
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sadev.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-sadegh-hemati) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sadev_ai) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@sadev-ai?si=uemDsEGsXUoKDcUP) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadev.ai.pv@gmail.com) 
-
-
-
-# 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=sadev-ai&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=sadev-ai&theme=blueberry&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadev-ai&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=sadev-ai&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=sadev-ai&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
-
-
+Currently focused on improving my frontend engineering skills and building practical, production-oriented web projects.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sadev-ai&icon=2&color=0)](https://visitcount.itsvg.in)
+## 👨‍💻 About Me
 
+- 🎓 B.Sc. Computer Engineering student at **Iran University of Science and Technology**
+- 💻 Focused on **Frontend Development with React & Next.js**
+- 👥 Worked as a **Frontend Developer and Frontend Team Lead** on a university software project
+- 🔗 Experienced in integrating frontend applications with **Go backend APIs**
+- 👨‍🏫 Teaching Assistant for programming, databases, and software engineering courses at IUST
+- 🛠️ Experience with Git, Linux, Docker, Figma, and software development workflows
+- 📚 Interested in building real-world products and continuously improving my software engineering fundamentals
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧰 Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Other Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### Profejoo
+**Frontend Developer / Frontend Team Lead**
+
+University software project developed by an 8-member team.
+
+- Worked as a Frontend Developer and coordinated the frontend team
+- Integrated frontend features with a **Go backend**
+- Collaborated with backend developers, Product Owner, and Scrum Master
+- Worked on frontend development within a collaborative software development workflow
+
+**Tech:** `[ADD ACTUAL TECH STACK]`
+
+🔗 **Repository:** `[ADD REPOSITORY URL]`  
+🌐 **Live Demo:** `[ADD LIVE DEMO IF AVAILABLE]`
+
+---
+
+### [PROJECT NAME]
+
+Short description of what the application does and the problem it solves.
+
+**Tech:** React • Next.js • Tailwind CSS
+
+- [Main feature]
+- [Main feature]
+- [Interesting technical challenge]
+
+🔗 **Repository:** [ADD LINK]  
+🌐 **Live Demo:** [ADD LINK]
+
+---
+
+### [PROJECT NAME]
+
+Short description.
+
+**Tech:** [TECH STACK]
+
+🔗 **Repository:** [ADD LINK]  
+🌐 **Live Demo:** [ADD LINK]
+
+---
+
+## 👨‍🏫 Teaching
+
+Teaching Assistant / Instructor at **Iran University of Science and Technology**
+
+Courses include:
+
+- Fundamentals of Programming
+- Advanced Programming
+- Python & C++
+- Databases
+- System Analysis & Design / Software Engineering
+
+---
+
+## ✍️ Sadev.ai
+
+I also create educational technology content through **Sadev.ai**, sharing programming resources, developer insights, and learning experiences.
+
+🌐 [Sadev.ai](https://takl.ink/Sadev.ai/)  
+📸 [Instagram](https://instagram.com/sadev.ai)  
+▶️ [YouTube](https://www.youtube.com/@sadev-ai)  
+𝕏 [X / Twitter](https://x.com/sadev_ai)
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadev-ai&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadev-ai&layout=compact&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-sadegh-hemati)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.sadegh.hemati.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sadev.ai)
+
+---
+
+> Learning by building, teaching by sharing.
