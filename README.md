@@ -64,39 +64,6 @@ University software project developed by an 8-member team.
 - Collaborated with backend developers, Product Owner, and Scrum Master
 - Worked on frontend development within a collaborative software development workflow
 
-**Tech:** `[ADD ACTUAL TECH STACK]`
-
-🔗 **Repository:** `[ADD REPOSITORY URL]`  
-🌐 **Live Demo:** `[ADD LIVE DEMO IF AVAILABLE]`
-
----
-
-### [PROJECT NAME]
-
-Short description of what the application does and the problem it solves.
-
-**Tech:** React • Next.js • Tailwind CSS
-
-- [Main feature]
-- [Main feature]
-- [Interesting technical challenge]
-
-🔗 **Repository:** [ADD LINK]  
-🌐 **Live Demo:** [ADD LINK]
-
----
-
-### [PROJECT NAME]
-
-Short description.
-
-**Tech:** [TECH STACK]
-
-🔗 **Repository:** [ADD LINK]  
-🌐 **Live Demo:** [ADD LINK]
-
----
-
 ## 👨‍🏫 Teaching
 
 Teaching Assistant / Instructor at **Iran University of Science and Technology**
